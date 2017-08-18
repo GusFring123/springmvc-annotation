@@ -1,0 +1,9 @@
+-javax.persistence.jar
+-javax.resource.jar
+-javax.servlet.jar
+-javax.servlet.jsp.jar
+-javax.servlet.jsp.jstl.jar
+-javax.transaction.jar
+-javax.annotation.jar
+-javax.ejb.jar
+-javax.jms.jar
